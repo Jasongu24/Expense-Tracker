@@ -1,0 +1,28 @@
+Engineering,Equipment,10000.0,3
+Engineering,Training,4000.0,3
+Engineering,Membership fees,1000.0,3
+Engineering,Magazine,500.0,3
+Engineering,Lab expense,20000.0,2
+Engineering,Software license,3000.0,3
+Engineering,Employee salaries,20000.0,3
+Marketing,Advertising,20000.0,3
+Marketing,Market research,5000.0,3
+Marketing,Public relations,2000.0,2
+Marketing,Event planning,4000.0,3
+Marketing,Creative services,7000.0,3
+Marketing,Software tools,1000.0,1
+Marketing,Employee salaries,25000.0,4
+Sales,Transportation,1000.0,4
+Sales,Entertainment,1000.0,3
+Sales,Travel insurance,1000.0,2
+Sales,Training,5000.0,1
+Sales,Customer gifts,800.0,3
+Sales,Employee salaries,20000.0,3
+Production,Equipment,15000.0,3
+Production,Rent facilities,10000.0,3
+Production,Packing and shipping,5000.0,3
+Production,Employee salaries,15000.0,2
+Accounting,Employee salaries,20000.0,3
+Accounting,Software tools,1000.0,3
+Accounting,Office supplies,2000.0,1
+Accounting,Travel expenses,1000.0,3
